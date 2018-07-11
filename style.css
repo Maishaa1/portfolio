@@ -1,0 +1,40 @@
+
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+    display: flex;
+    justify-content: space-around;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+p{
+    font-family: "cookie";
+}
+h1{
+    font-family: "cookie";
+    font-size: 130px;
+    
+}
+img{
+    width: 100%;
+
+}
+body  {
+    background-image: url("https://img1.picmix.com/output/pic/normal/8/5/2/8/4428258_2432f.gif");
+   
+}
