@@ -1,8 +1,7 @@
-
 .row{   
 
     background-color:black;
-    color:white;
+    color:gold;
     font-size:20px;
     display: flex;
     justify-content: space-around;
@@ -23,18 +22,18 @@
     border:1px solid black;   
 }
 p{
-    font-family: "cookie";
+font-family: 'Parisienne', cursive;
 }
 h1{
-    font-family: "cookie";
+font-family: 'Parisienne', cursive;
     font-size: 130px;
     
 }
 img{
     width: 100%;
-
+    background-color: blue;
 }
 body  {
-    background-image: url("https://img1.picmix.com/output/pic/normal/8/5/2/8/4428258_2432f.gif");
-   
+    background-image: url("https://ficardo-weddings.com/images/letter-e-images/alphabet-2010747__340.png");
+    background-color: 	#f4fabf	;
 }
